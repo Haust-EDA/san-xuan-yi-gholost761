@@ -1,3 +1,4 @@
+/*正三角和倒三角打印九九乘法表*/
 #include "stdio.h"
 int main()
 {
